@@ -1,4 +1,4 @@
-public class Rotate_Array {
+public class Arrays_Rotate_Array {
 
     public static void swap(int arr[], int a , int b, int k) {
         for(int i = 0; i < k ; i++){
